@@ -1,5 +1,5 @@
 #! /bin/bash
-cp vimrc ~/.vimrc
+cp .vimrc ~/.vimrc
 
 git clone https://github.com/joshdick/onedark.vim.git
 
